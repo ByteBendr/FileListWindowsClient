@@ -53,7 +53,7 @@ You must provide your **FileList passkey**, a unique API hash tied to your accou
 
 📸 You need **THIS PASSKEY (NOT THE PASSWORD)**:
 
-![Where to find your FileList passkey](/Passkey.png)
+![Where to find your FileList passkey](Passkey.PNG)
 
 Treat your passkey like a secret API token.
 
